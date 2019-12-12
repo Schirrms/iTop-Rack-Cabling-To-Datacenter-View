@@ -21,7 +21,7 @@ SetupWebPage::AddModule(
 		'mandatory' => false,
 		'visible' => true,
 		'datamodel' => array(
-			'model.schirrms-generic-connection-to-datacenter-view.php'
+			'model.schirrms-rack-cabling-to-datacenter-view.php'
 		),
 		'webservice' => array(
 			
