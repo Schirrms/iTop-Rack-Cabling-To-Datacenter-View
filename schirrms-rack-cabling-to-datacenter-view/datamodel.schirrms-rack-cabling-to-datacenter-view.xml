@@ -7,14 +7,14 @@
 			<presentation>
 				<details>
 					<items>
-						<item id="position_v">
+						<item id="position_v" _delta="define">
 							<rank>70</rank>
 						</item>
 					</items>
 				</details>
 				<list>
 					<items>
-						<item id="position_v">
+						<item id="position_v" _delta="define">
 							<rank>70</rank>
 						</item>
 					</items>
